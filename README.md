@@ -12,20 +12,6 @@ This project is based on the official **Road Accidents in India Report 2022 (MoR
 - 🛣️ **Time Duration Accident Analysis**
 ---
 
-## 📁 Repository Structure
-
-road-accident-analysis/
-├─ Road Accident.pbix # Power BI dashboard
-├─ data/ #cleaned datasets
-│ └─ processed/ # CSV/Excel files used in PBIX
-├─ images/ # dashboard screenshots
-│ ├─ dashboard_overview.png
-│ ├─ statewise_trends.png
-│ └─ time_analysis.png
-└─ README.md # project documentation
-
-
----
 
 ## 🖼️ Dashboard Preview
 
