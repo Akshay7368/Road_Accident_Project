@@ -19,7 +19,7 @@ This project is based on the official **Road Accidents in India Report 2022 (MoR
 ![Dashboard Preview](images/dashboard_overview.png)
 
 ### Statewise Accident Trends
-![Statewise Trends](images/statewise_trends.png)
+![Statewise Trends](images/Month_Year_Analysis.png)
 
 ### Time of Day Analysis
 ![Time Analysis](images/time_analysis.png)
