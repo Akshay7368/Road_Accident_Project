@@ -39,6 +39,8 @@ This project is based on the official **Road Accidents in India Report 2022 (MoR
 - Ministry of Road Transport and Highways (MoRTH), **Road Accidents in India 2022**  
 - NCRB, Open Government Data ([data.gov.in](https://morth.nic.in/sites/default/files/RA_2022_30_Oct.pdf))  
 
+## 📌Powerbi Service
+-Click this link to view the project(https://app.powerbi.com/view?r=eyJrIjoiZDdiMDY2NWQtMThiYi00NDAzLTlkZWUtNjA0YmE1ZjliMmNhIiwidCI6IjQyYzJjNGE0LTcyMTEtNGEwNC1hNTk4LWEyN2Q1YWIzMjY4MSJ9)
 
 ---
 
